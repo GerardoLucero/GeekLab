@@ -1,0 +1,11 @@
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\bin\Debug\ControlArduino.exe.config
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\bin\Debug\ControlArduino.exe
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\bin\Debug\ControlArduino.pdb
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\obj\Debug\ControlArduino.csprojResolveAssemblyReference.cache
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\obj\Debug\ControlArduino.Form1.resources
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\obj\Debug\ControlArduino.Properties.Resources.resources
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\obj\Debug\ControlArduino.csproj.GenerateResource.Cache
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\obj\Debug\ControlArduino.exe
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\obj\Debug\ControlArduino.pdb
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\gerardo\documents\visual studio 2013\Projects\ControlArduino\ControlArduino\bin\Debug\AForge.Video.dll
